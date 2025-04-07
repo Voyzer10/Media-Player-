@@ -1,7 +1,7 @@
 🎵 Project Media Player
 A sleek, full-featured, dark-themed music streaming platform built using the MERN stack and deployed via Kubernetes on AWS EC2. Inspired by Spotify and YouTube Music.
 
-<!-- You can change this later to your custom banner -->
+![alt text](image.png)                  ![alt text](image-1.png)
 
 🚀 Tech Stack
 Layer	Tech Used
